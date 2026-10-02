@@ -1,4 +1,4 @@
-# Inventory Analytics Project - StockSmart
+# Inventory Analytics Project
 
 A comprehensive SQL-driven solution for inventory management optimization using advanced analytics and machine learning.
 
@@ -6,12 +6,10 @@ A comprehensive SQL-driven solution for inventory management optimization using 
 
 ## Meet Our Team
 
-- **Rahul Jat**
-- **Pranav Jori**  
-- **Vanshita Bihani**  
-- **Arpit Kumar** 
-
-*Team StockSmart - Summer Project 2025, CA IIT Guwahati*
+- **Babita Verma**  
+- **Himanshu**
+  
+*Summer Project 2025, CA IIT Guwahati*
 
 ## Project Overview
 
